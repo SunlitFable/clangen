@@ -24,7 +24,10 @@
             "MALLOW": "brown",
             "DARKBROWN": "brown",
             "CHOCOLATE": "brown",
-            "RUST": "brown"
+            "RUST": "brown",
+            "BULBASAUR": "lilac",
+            "IVYSAUR": "lilac",
+            "VENUSAUR": "lilac"
         },
         "pattern_types": {
             "Tabby": "tabbies",

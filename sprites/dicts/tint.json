@@ -24,7 +24,10 @@
     "GOLDEN-BROWN": "brown",
     "DARKBROWN": "darkbrown",
     "CHOCOLATE": "darkbrown",
-    "RUST": "rust"
+    "RUST": "rust",
+    "BULBASAUR": "lilac",
+    "IVYSAUR": "lilac",
+    "VENUSAUR": "lilac"
   },
   "possible_tints": {
     "basic": ["pink", "gray", "red", "orange", "warmdilute", "tawny", "densecocoa"],

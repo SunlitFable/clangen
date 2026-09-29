@@ -93,6 +93,18 @@
             "one": "brown",
             "many": "rusted brown"
         },
+        "BULBASAUR": {
+            "one": "Bulbasaur",
+            "many": "Bulbasaur"
+        },
+        "IVYSAUR": {
+            "one": "Ivysaur",
+            "many": "Ivysaur"
+        },
+        "VENUSAUR": {
+            "one": "Venusaur",
+            "many": "Venusaur"
+        },
         "SingleColour": "single color",
         "SingleColour_long": "%{color}",
         "TwoColour": "two color",
