@@ -141,6 +141,18 @@
             "one": "Butterfree",
             "many": "Butterfree"
         },
+        "WEEDLE": {
+            "one": "Weedle",
+            "many": "Weedle"
+        },
+        "KAKUNA": {
+            "one": "Kakuna",
+            "many": "Kakuna"
+        },
+        "BEEDRILL": {
+            "one": "Beedrill",
+            "many": "Beedrill"
+        },
         "pink": "pink",
         "gray": "haze",
         "red": "red",
