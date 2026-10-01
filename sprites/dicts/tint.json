@@ -4,6 +4,9 @@
     "WHITE": "white",
     "PALEGREY": "lightgrey",
     "SILVER": "lightgrey",
+    "SQUIRTLE": "lightgrey",
+    "WARTORTLE": "lightgrey",
+    "BLASTOISE": "lightgrey",
     "GREY": "darkgrey",
     "DARKGREY": "darkgrey",
     "GHOST": "ghost",
@@ -30,7 +33,10 @@
     "RUST": "rust",
     "BULBASAUR": "lilac",
     "IVYSAUR": "lilac",
-    "VENUSAUR": "lilac"
+    "VENUSAUR": "lilac",
+    "CATERPIE": "lilac",
+    "METAPOD": "lilac",
+    "BUTTERFREE": "lilac"
   },
   "possible_tints": {
     "basic": ["pink", "gray", "red", "orange", "warmdilute", "tawny", "densecocoa"],

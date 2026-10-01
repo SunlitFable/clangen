@@ -8,6 +8,9 @@
             "DARKGREY": "black",
             "GHOST": "black",
             "BLACK": "black",
+            "SQUIRTLE": "black",
+            "WARTORTLE": "black",
+            "BLASTOISE": "black",
             "DAWN": "ginger",
             "BLOSSOM": "ginger",
             "CREAM": "ginger",
@@ -30,7 +33,10 @@
             "RUST": "brown",
             "BULBASAUR": "lilac",
             "IVYSAUR": "lilac",
-            "VENUSAUR": "lilac"
+            "VENUSAUR": "lilac",
+            "CATERPIE": "lilac",
+            "METAPOD": "lilac",
+            "BUTTERFREE": "lilac"
         },
         "pattern_types": {
             "Tabby": "tabbies",

@@ -117,6 +117,63 @@
             "one": "Charmeleon",
             "many": "Charmeleon"
         },
+        "SQUIRTLE": {
+            "one": "Squirtle",
+            "many": "Squirtle"
+        },
+        "WARTORTLE": {
+            "one": "Wartortle",
+            "many": "Wartortle"
+        },
+        "BLASTOISE": {
+            "one": "Blastoise",
+            "many": "Blastoise"
+        },
+        "CATERPIE": {
+            "one": "Caterpie",
+            "many": "Caterpie"
+        },
+        "METAPOD": {
+            "one": "Metapod",
+            "many": "Metapod"
+        },
+        "BUTTERFREE": {
+            "one": "Butterfree",
+            "many": "Butterfree"
+        },
+        "pink": "pink",
+        "gray": "haze",
+        "red": "red",
+        "black": "grey",
+        "orange": "orange",
+        "yellow": "yellow",
+        "purple": "purple",
+        "blue": "blue",
+        "night": "black",
+        "gloaming": "twilight",
+        "patina": "patina",
+        "quartz": "quartz",
+        "tawny": "tawny",
+        "dilute": "dilute",
+        "warmdilute": "sun",
+        "cooldilute": "ice",
+        "lilacdilute": "lilac",
+        "pinkdilute": "peach",
+        "earthydilute": "tan",
+        "densecocoa": "cocoa",
+        "densedust": "dust",
+        "denseamber": "amber",
+        "None": "none",
+
+        "mostly_white": "mostly",
+        "high_white": "high",
+        "mid_white": "medium",
+        "little_white": "little",
+        "darkcream": "dark cream",
+        "cream": "cream",
+        "offwhite": "off-white",
+        "midnight": "dark",
+
         "SingleColour": "single color",
         "SingleColour_long": "%{color}",
         "TwoColour": "two color",
